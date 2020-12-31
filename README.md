@@ -8,6 +8,11 @@ Finding face in pictures:
 https://github.com/vanshika77/Face-Recognition/blob/master/face_detection.py
 ___________________________________________________________________________________________________________________________________________________________________________________
 
+Finding face in vedio:
+
+https://github.com/vanshika77/Face-Recognition/blob/master/vedio%20face%20detection.py
+___________________________________________________________________________________________________________________________________________________________________________________
+
 Finding face in real-time
 
 If you do not want to create your own classifier, OpenCV already contains many pre-trained classifiers for face, eyes, smile, etc. Those XML files can be download from https://github.com/vanshika77/Face-Recognition/blob/master/haarcascades.xml .
