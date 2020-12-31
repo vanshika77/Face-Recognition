@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 Finding face in pictures:
   
-https://github.com/vanshika77/Face-Recognition/blob/master/face_detection.ipynb
+https://github.com/vanshika77/Face-Recognition/blob/master/face_detection.py
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 Finding face in real-time
